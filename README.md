@@ -9,11 +9,11 @@
 
 ### Section 2 (Into to HTML)
 
-- Headding Tags (<h1> ... <h6>)
-- Non-closing tags (<br> ... <hr>)
-- Paragraph Tags (<p>)
-- Styling Tags (italics <em> ... bold <strong>)
-- Image Tags (<img src="" alt="" ...>)
-- Anchor tags (<a>)
+- Headding Tags ('h1' ... 'h6')
+- Non-closing tags ('br' ... 'hr')
+- Paragraph Tags ( 'p' )
+- Styling Tags (italics 'em' ... bold 'strong')
+- Image Tags ('img src="" alt="" ...')
+- Anchor tags ( 'a' )
 
 ### Section 3
