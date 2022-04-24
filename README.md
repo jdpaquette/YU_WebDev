@@ -16,4 +16,10 @@
 - Image Tags ('img src="" alt="" ...')
 - Anchor tags ( 'a' )
 
-### Section 3
+### Section 3 (Intermediate HMTL)
+
+- Tables ('thead' | 'tbody' | 'tfooter' | 'th' | 'tr' | 'td')
+- Nested tables and ul / li within table
+- Forms (labels | inputs | email)
+
+### Section 4 (Intro to CSS)
