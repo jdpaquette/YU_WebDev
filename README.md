@@ -23,3 +23,9 @@
 - Forms (labels | inputs | email)
 
 ### Section 4 (Intro to CSS)
+
+- Inline CSS
+- Internal | External
+- Debug CSS code
+- CSS Selectors
+- Classes vs ID's
