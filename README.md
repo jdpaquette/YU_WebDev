@@ -7,6 +7,10 @@
 - Google Chrome (devleoper tools)
 - VS Code (Angela uses Atom in the beginning)
 
+### Interests
+
+- HTML | CSS | JS | REACT |
+
 ### Section 2 (Into to HTML)
 
 - Headding Tags ('h1' ... 'h6')
