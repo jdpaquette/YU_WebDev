@@ -9,7 +9,7 @@
 
 ### Interests
 
-- HTML | CSS | JS | REACT |
+- HTML | CSS | JS | REACT | possibly Python...
 
 ### Section 2 (Into to HTML)
 
